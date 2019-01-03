@@ -1,5 +1,5 @@
-pkg_name="hello-hab-server"
-pkg_origin="xlk-sample"
+pkg_name="hello-hab"
+pkg_origin="hello_hab"
 pkg_version="0.1.0"
 pkg_svc_user="root"
 pkg_deps=(core/nginx)
